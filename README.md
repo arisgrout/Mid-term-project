@@ -1,4 +1,4 @@
-# Flight Delays Prediction
+# Flight Delay Prediction
 ## Objective
 Create a supervised machine-learning model for predicting US flight delays.
 * Find KPIs that are predictive of a flight delay.
