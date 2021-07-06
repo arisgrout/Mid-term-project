@@ -29,5 +29,5 @@ fuel_comsumption - the fuel comsumption of different airlines for years 2015-201
 passengers - the passenger totals on different routes for years 2015-2019 aggregated per month.
 
 **Evaluation**
-flights_test - the departure and arrival information for flights in the USA in January 2020. This table is used for final evaluation.\
+flights_test - the departure and arrival information for flights in the USA in January 2020. This table is used for final evaluation.
 * Predicting delays on flights for the first 7 days of 2020 (1st of January - 7th of January).
