@@ -4,7 +4,7 @@
 ## Objective
 Create a supervised machine-learning model for predicting US flight delays and find KPIs that are predictive of flight delays.
 
-#### Why?
+**Why?**\
 * In 2019, flight delays costed the aviation industry $33 billion in the USA. This cost has trended upwards the last few years (from 2016-2019; +12.24%, +13.53%, +9.27%).
 * By understanding the KPIs impacting flight-delay times, aviation companies can create supportive procedures to mitigate their flight delays and delay-associated costs.
 
@@ -27,6 +27,6 @@ flights - the departure and arrival information about flights in the USA 2018-20
 fuel_comsumption - the fuel comsumption of different airlines for years 2015-2019 aggregated per month.\
 passengers - the passenger totals on different routes for years 2015-2019 aggregated per month.
 
-**Evaluation**
+**Evaluation**\
 flights_test - the departure and arrival information for flights in the USA in January 2020. This table is used for final evaluation.
 * Predicting delays on flights for the first 7 days of 2020 (1st of January - 7th of January).
