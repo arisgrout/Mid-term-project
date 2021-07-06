@@ -1,7 +1,5 @@
 # Flight Delay Prediction
-## Contributors
-[Wonho Choi](https://github.com/Wonhochoi123)\
-[Aris Grout](https://github.com/arisgrout)
+**Contributors** [Wonho Choi](https://github.com/Wonhochoi123), [Aris Grout](https://github.com/arisgrout).
 
 ## Objective
 Create a supervised machine-learning model for predicting US flight delays.
