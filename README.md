@@ -22,8 +22,8 @@ In 2019, flight delays costed the aviation industry $33 billion in the USA. This
 [Google Slides](https://docs.google.com/presentation/d/1AqPuf7cTp_LwFIrEDJatkQh8GtNO-lg3sR-FjtBLZY8/edit?usp=sharing)
 
 ## Data
-flights - the departure and arrival information about flights in the USA 2018-2019.\
-fuel_comsumption - the fuel comsumption of different airlines for years 2015-2019 aggregated per month.\
-passengers - the passenger totals on different routes for years 2015-2019 aggregated per month.
-flights_test - the departure and arrival information for flights in the USA in January 2020. This table is used for final evaluation.
-* Predicting delays on flights for the first 7 days of 2020 (1st of January - 7th of January).
+The data contains following tables:
+* flights - the departure and arrival information about flights in the USA 2018-2019.\
+* fuel_comsumption - the fuel comsumption of different airlines for years 2015-2019 aggregated per month.\
+* passengers - the passenger totals on different routes for years 2015-2019 aggregated per month.
+* flights_test - the departure and arrival information for flights in the USA in January 2020. This table is used for final evaluation: predicting delays on flights for the first 7 days of 2020 (1st of January - 7th of January).
